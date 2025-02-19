@@ -7,6 +7,8 @@ The model data is available in Hugging Face: [https://huggingface.co/KazukiNakam
 
 #### Citation
 
+If you find the model useful in your research, we ask that you cite the relevant paper:
+
 Nakamae *et al*. Risk Prediction of RNA Off-Targets of CRISPR Base Editors in Tissue-Specific Transcriptomes Using Language Models. *International Journal of Molecular Sciences* **2025**, 26(4), 1723.; [DOI: 10.3390/ijms26041723](https://doi.org/10.3390/ijms26041723)
 
 ---
